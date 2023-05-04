@@ -4,6 +4,8 @@
         "recipe_name": "Grilled Chicken with Lemon and Herbs",
         "img": "/images/recipe-1.jpg",
         "chef_id": "1",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 lemons, sliced",
@@ -29,6 +31,8 @@
         "recipe_name": "Creamy Tomato Basil Soup",
         "img": "/images/recipe-2.jpg",
         "chef_id": "1",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "2 tbsp butter",
             "1 onion, chopped",
@@ -55,6 +59,8 @@
         "recipe_name": "Roasted Cauliflower and Chickpea Salad",
         "img": "/images/recipe-3.jpg",
         "chef_id": "1",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 head cauliflower, cut into florets",
             "1 can (15 oz) chickpeas, drained and rinsed",
@@ -84,6 +90,8 @@
         "recipe_name": "Pesto Pasta with Grilled Shrimp",
         "img": "/images/recipe-4.jpg",
         "chef_id": "2",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb spaghetti",
             "1 lb large shrimp, peeled and deveined",
@@ -112,6 +120,8 @@
         "recipe_name": "Vegetable Stir-Fry with Tofu",
         "img": "/images/recipe-5.jpg",
         "chef_id": "2",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 block (14 oz) firm tofu, drained and cubed",
             "1 red bell pepper, sliced",
@@ -143,6 +153,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "2",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -171,6 +183,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "3",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -199,6 +213,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "3",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -227,6 +243,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "3",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -255,6 +273,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "4",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -283,6 +303,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "4",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -311,6 +333,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "4",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -339,6 +363,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "5",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -367,6 +393,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "5",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -395,6 +423,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "5",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -423,6 +453,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "6",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -451,6 +483,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "6",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -479,6 +513,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "6",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -507,6 +543,8 @@
         "recipe_name": "Crispy Baked Chicken Tenders",
         "img": "/images/recipe-6.jpg",
         "chef_id": "6",
+        "time": "1hr 4min",
+        "servs": "3",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
