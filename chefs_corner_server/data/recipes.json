@@ -2,6 +2,8 @@
     {
         "id": 1,
         "recipe_name": "Grilled Chicken with Lemon and Herbs",
+        "img": "/images/recipe-1.jpg",
+        "chef_id": "1",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 lemons, sliced",
@@ -25,6 +27,8 @@
     {
         "id": 2,
         "recipe_name": "Creamy Tomato Basil Soup",
+        "img": "/images/recipe-2.jpg",
+        "chef_id": "1",
         "ingredients": [
             "2 tbsp butter",
             "1 onion, chopped",
@@ -49,6 +53,8 @@
     {
         "id": 3,
         "recipe_name": "Roasted Cauliflower and Chickpea Salad",
+        "img": "/images/recipe-3.jpg",
+        "chef_id": "1",
         "ingredients": [
             "1 head cauliflower, cut into florets",
             "1 can (15 oz) chickpeas, drained and rinsed",
@@ -76,6 +82,8 @@
     {
         "id": 4,
         "recipe_name": "Pesto Pasta with Grilled Shrimp",
+        "img": "/images/recipe-4.jpg",
+        "chef_id": "2",
         "ingredients": [
             "1 lb spaghetti",
             "1 lb large shrimp, peeled and deveined",
@@ -102,6 +110,8 @@
     {
         "id": 5,
         "recipe_name": "Vegetable Stir-Fry with Tofu",
+        "img": "/images/recipe-5.jpg",
+        "chef_id": "2",
         "ingredients": [
             "1 block (14 oz) firm tofu, drained and cubed",
             "1 red bell pepper, sliced",
@@ -131,6 +141,372 @@
     {
         "id": 6,
         "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "2",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 7,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "3",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 8,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "3",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 9,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "3",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "4",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 11,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "4",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 12,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "4",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 13,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "5",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "5",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 15,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "5",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "6",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 17,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "6",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 18,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "6",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup panko bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp paprika",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 eggs, beaten",
+            "Cooking spray"
+        ],
+        "cooking_steps": [
+            "Preheat the oven to 400°F.",
+            "In a shallow dish, combine the panko bread crumbs, Parmesan cheese, garlic powder, onion powder, paprika, salt, and black pepper.",
+            "In another shallow dish, beat the eggs.",
+            "Dip each chicken tender first in the beaten eggs, then coat in the panko mixture.",
+            "Place the chicken tenders on a greased baking sheet and lightly spray with cooking spray.",
+            "Bake for 15-20 minutes, or until the chicken is cooked through and the coating is crispy and golden brown.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 19,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "img": "/images/recipe-6.jpg",
+        "chef_id": "6",
         "ingredients": [
             "1 lb chicken tenders",
             "1 cup panko bread crumbs",
@@ -154,4 +530,5 @@
         ],
         "rating": 4.6
     }
+    
 ]
