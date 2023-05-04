@@ -1,0 +1,50 @@
+[
+    {
+      "chef_id": 1,
+      "img": "images/ramsey.jpg",
+      "chef_name": "Gordon Ramsay",
+      "years_of_experience": 30,
+      "number_of_recipes": 70,
+      "number_of_likes": 120000
+    },
+    {
+      "chef_id": 2,
+      "img": "images/oliver.jpg",
+      "chef_name": "Jamie Oliver",
+      "years_of_experience": 25,
+      "number_of_recipes": 120,
+      "number_of_likes": 95000
+    },
+    {
+      "chef_id": 3,
+      "img": "images/lawson.jpg",
+      "chef_name": "Nigella Lawson",
+      "years_of_experience": 25,
+      "number_of_recipes": 90,
+      "number_of_likes": 85000
+    },
+    {
+      "chef_id": 4,
+      "img": "images/henston.jpg",
+      "chef_name": "Heston Blumenthal",
+      "years_of_experience": 30,
+      "number_of_recipes": 60,
+      "number_of_likes": 78000
+    },
+    {
+      "chef_id": 5,
+      "img": "images/delia.jpg",
+      "chef_name": "Delia Smith",
+      "years_of_experience": 50,
+      "number_of_recipes": 200,
+      "number_of_likes": 72000
+    },
+    {
+      "chef_id": 6,
+      "img": "images/michel.jpg",
+      "chef_name": "Michael Caines",
+      "years_of_experience": 40,
+      "number_of_recipes": 150,
+      "number_of_likes": 69000
+    }
+  ]
