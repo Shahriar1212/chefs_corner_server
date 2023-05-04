@@ -1,6 +1,6 @@
 # Chefs Corner
 
-* Live Site : [https://ephemeral-vacherin-ae26f8.netlify.app/](https://ephemeral-vacherin-ae26f8.netlify.app/)
+* Live Site : [https://chefs-corner-9767f.web.app/](https://chefs-corner-9767f.web.app/)
 
 * Assignment 10
 
