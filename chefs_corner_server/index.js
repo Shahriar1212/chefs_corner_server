@@ -31,7 +31,7 @@ app.get('/chef/:id', (req, res) => {
 
 app.get('/recipes', (req, res) => {
 
-    res.send(chefs)
+    res.send(recipes)
 })
 
 app.get('/recipe/:id', (req, res) => {
